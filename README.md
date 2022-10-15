@@ -1,1 +1,1 @@
-# 100-days-of-oython
+# 100-days-of-python
